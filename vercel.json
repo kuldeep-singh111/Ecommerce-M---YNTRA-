@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "music-album",
+    "name": "Ecomerce",
     "builds": [
         {
             "src": "app.js",
