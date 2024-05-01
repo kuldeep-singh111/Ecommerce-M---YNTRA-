@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "ecomerce",
+    "name": "Ecomerce",
     "builds": [
         {
             "src": "Ecomerce/*",
